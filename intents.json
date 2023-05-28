@@ -1,0 +1,23 @@
+{"intents": [
+  {"tags": "greetings",
+  "patterns": ["hello","hi","hey","whats up","good day"],
+  "responses":  ["hello!","hey!","what can i do for you?"]
+  },
+  {"tags": "goodbye",
+  "patterns": ["Good bye","see you later","bye","have a good day"],
+  "responses":  ["talk to you later","sad to seeing you go"]
+  },
+  {"tags": "age",
+  "patterns": ["how old are you","what is your age","age?"],
+  "responses":  ["i was born today and my owner is neeraj","sorry no dob"]
+  },
+  {"tags": "hobbies",
+  "patterns": ["what do you do?","hobbies? "],
+  "responses":  ["process data","play with 0's and 1's"]
+  },
+  {"tags": "help",
+  "patterns": ["i need a help","help","please","could you help me"],
+  "responses":  ["what can i do for you!","im always here"]
+  }
+
+]}
